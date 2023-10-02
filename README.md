@@ -3,6 +3,7 @@
 for full screen mode in kotlin with jetpack compose you should be do this:
 1- Main Activity:
 
+/
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -13,5 +14,5 @@ class MainActivity : ComponentActivity() {
         }
     }
   }
-
+/
   2-
